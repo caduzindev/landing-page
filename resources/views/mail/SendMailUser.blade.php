@@ -1,0 +1,1 @@
+<h1>Ola {{$user->name}} parabens!!! obrigado por confiar em nós</h1> 

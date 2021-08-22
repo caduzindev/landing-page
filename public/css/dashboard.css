@@ -1,0 +1,36 @@
+html,
+body {
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+        Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+        "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+#mainNavDash {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background: linear-gradient(to right, #41295a, #2f0743);
+}
+#mainNavDash .navbar-brand img {
+    height: 4rem;
+}
+.card-item-header {
+    background-color: #2f0743;
+    color: #fff;
+}
+.card-item-body {
+    background: radial-gradient(#41295a, #2f0743);
+    color: #ccc;
+}
+.card-text-item {
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+}
+.blockquote {
+    background: linear-gradient(to right, #41295a, #2f0743);
+    color: #fff;
+    border-end-end-radius: 1rem;
+    border-end-start-radius: 1rem;
+}
+.bg-active {
+    background-color: #2f0743;
+}
