@@ -15,5 +15,5 @@
 * ### Na raiz do projeto rode **npm run dev**
 * ### Na raiz do projeto rode **php artisan storage:link** para conseguir gerenciar arquivos
 * ### Rode **php artisan db:seed** para criar um usuario para logar
-* ### Agora **php artisan serve** e acesse **http://localhost:8000/**
-* ### Para acessar o admin acesse o **/dashboard** o email e **carlos@gmail.com** e a senha e **c@rlos11**
+* ### Agora rode **php artisan serve** e acesse **http://localhost:8000/**
+* ### Para acessar o admin acesse a rota **/dashboard** o email é (**carlos@gmail.com**) e a senha e (**c@rlos11**)
