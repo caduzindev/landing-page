@@ -1,5 +1,5 @@
 # Requisitos
-* #### php instalado
+* ### php instalado
 * ### composer instalado
 * ### banco de dados de preferencia mysql
 * ### gerenciador de pacotes npm
